@@ -1,4 +1,6 @@
-# Week 19: Project Happy Thoughts API
+# Project Happy Thoughts API
+
+Weekly project for Technigo's bootcamp, week 19: build an API for happy thoughts project
 
 This week's project was to use Express and MongoDB to build an API with both GET request endpoints to return data and POST endpoints to create data.
 
