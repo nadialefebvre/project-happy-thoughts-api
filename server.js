@@ -13,15 +13,13 @@ const app = express()
 app.use(cors())
 app.use(express.json())
 
-// This code seems to catch to fast that the service in unavailable and get stucked
-// with this error message: commented out until I know more on this issue
-// app.use((req, res, next) => {
-//   if (mongoose.connection.readyState === 1) {
-//     next()
-//   } else {
-//     res.status(503).json({ error: "Service unavailable" })
-//   }
-// })
+app.use((req, res, next) => {
+  if (mongoose.connection.readyState === 1) {
+    next()
+  } else {
+    res.status(503).json({ error: "Service unavailable" })
+  }
+})
 
 const ThoughtSchema = new mongoose.Schema({
   message: {
