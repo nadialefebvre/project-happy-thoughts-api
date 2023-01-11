@@ -12,7 +12,7 @@ After building the API, I updated week 11's project to include the new API url. 
 
 ## View it live
 
-Project deployed here: [Happy Thoughts by Nadia - API](https://happy-thoughts-by-nadia-k4dsiyy6ga-uc.a.run.app/)
+Project deployed here: [Happy Thoughts by Nadia - API](https://happy-thoughts-by-nadia-kijk33idxa-lz.a.run.app/)
 
 Updated week 11's project can be found here: 
 * repository: (https://github.com/nadialefebvre/project-happy-thoughts)
