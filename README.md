@@ -17,3 +17,7 @@ Project deployed here: [Happy Thoughts by Nadia - API](https://happy-thoughts-by
 Updated week 11's project can be found here: 
 * repository: (https://github.com/nadialefebvre/project-happy-thoughts)
 * deployed site: (https://happy-thoughts2022.netlify.app)
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
