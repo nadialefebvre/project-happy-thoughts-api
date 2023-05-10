@@ -1,10 +1,18 @@
 # Project Happy Thoughts API
 
-Weekly project for Technigo's bootcamp, week 19: build an API for happy thoughts project
+Weekly project for Technigo's bootcamp, week 19: build an API for happy thoughts project (May 2022)
 
-This week's project was to use Express and MongoDB to build an API with both GET request endpoints to return data and POST endpoints to create data.
+## Tech stack
+
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- API
 
 ## The problem
+
+This week's project was to use Express and MongoDB to build an API with both GET request endpoints to return data and POST endpoints to create data.
 
 This third project with backend was very simple for me, I had no issue/difficulty. The only thing I really had to find how was the right function in Mongoose to update the "hearts" property of an object in the database, nothing that a little googling didn't solve.
 
